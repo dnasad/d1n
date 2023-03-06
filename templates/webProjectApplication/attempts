@@ -1,0 +1,37 @@
+Главная(кнопка для перехода на Авторизацию, попытка картинки)
+
+<div class=" p-4 my-5 bg-primary text-white">
+        
+    <h1>
+        Добро пожаловать на мой сайт!
+    </h1>
+    
+    <a href="/login"  class="btn btn-light" role="button" aria-pressed="true">
+        Вход
+    </a>
+
+
+   
+</div>
+
+<div class="container">
+    <h2>Rounded Corners</h2>
+    <p>The .rounded class adds rounded corners o an image:</p>            
+    <img src="i.png" class="rounded" alt="123" width="304" height="236"> 
+  </div>
+---------------------------------------------------------------------------------------
+
+Панель сверху
+
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+    <ul class="navbar-nav">
+
+      <li class="nav-item">
+        <a class="nav-link" href="/login">Вход</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Регистрация</a>
+      </li>
+
+    </ul>
+  </nav>
